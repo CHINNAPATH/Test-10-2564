@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 namespace Hangman_63120501061_chinnapath
 {
     class HangManGame
-    ////////////////ตรวจสอบว่า input เป็น
+    ////////////////ตรวจสอบว่า input เป็นตัวอักษรซ้ำหรือไม่
     { 
         static bool IsWord(string secretword, List<string> letterGuessed)
         {
