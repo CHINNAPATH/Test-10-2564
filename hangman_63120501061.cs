@@ -107,7 +107,7 @@ namespace Hangman_63120501061_chinnapath
                 Isletter(secretword, letterGuessed);
                 if (Menu == 1)
                 {
-                    Environment.ExitCode = -1;
+                    break;
                 }
 
 
